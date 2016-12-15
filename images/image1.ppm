@@ -1,0 +1,13 @@
+P3
+# P3 utilisé pour les images en couleur
+# Exemple avec une "Bougie"
+# Par 3 colonnes et 6 lignes
+3 6
+# Ayant 255 pour valeur maximum, et qu'elles sont en RGB.
+255
+255 255 255  255 255 000  255 255 255
+255 255 255  255 255 000  255 255 255
+255 000 000  255 000 000  255 000 000 
+255 000 000  255 000 000  255 000 000 
+255 000 000  255 000 000  255 000 000 
+255 000 000  255 000 000  255 000 000 
