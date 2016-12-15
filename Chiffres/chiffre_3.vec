@@ -1,0 +1,10 @@
+# Chiffre 3
+# La taille de notre image est de 5 pixel en hauteur et 3 pixel en largeur.
+
+L: 0 0
+L: 2 0
+L: 2 2
+L: 0 2
+L: 2 2
+L: 2 4
+L: 0 4

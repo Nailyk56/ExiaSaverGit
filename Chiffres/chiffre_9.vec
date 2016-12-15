@@ -1,0 +1,9 @@
+#Chiffre 9
+#Premier chiffre : largeur = 3
+#Second chiffre : hauteur = 5
+L: 0 4
+L: 2 4
+L: 2 0
+L: 0 0
+L: 0 2
+L: 2 2
